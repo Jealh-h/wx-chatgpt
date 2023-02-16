@@ -11,6 +11,10 @@
 
 <img height="400" src="https://raw.githubusercontent.com/PancakeDogLLL/imageBed/master/img/202302161639.PNG" />
 
+## BadCase
+
+微信公众号有 5 秒内回复的限制，所以会出现 ‘该公众号提供的服务出现故障。。。’
+
 ## Install
 
 已经通过 docker 构建到阿里云的镜像服务上了
