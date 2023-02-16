@@ -1,5 +1,7 @@
 # 一个简易的公众号后端，使用 chatgpt-api 实现问答服务
 
+仓库的 openai key 已经失效了，可以使用自己的替换掉 :(
+
 ## Have a try
 
 下面是我自己的网站，访问后会返回一首随机的古诗，然后这也是我公众号配置的 api 路径。
@@ -7,7 +9,7 @@
 
 **公众号示例**
 
-![img](https://raw.githubusercontent.com/PancakeDogLLL/imageBed/master/img/202302161639.PNG)
+<img height="400" src="https://raw.githubusercontent.com/PancakeDogLLL/imageBed/master/img/202302161639.PNG" />
 
 ## Install
 
